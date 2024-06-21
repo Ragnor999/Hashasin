@@ -1,14 +1,14 @@
 Hi 👋 My name is Nafis Anwar
 ============================
 
-Full Stack Developer & Data Engineer
+Developer & Engineer
 --------------------
 
-Writing clean, functional code on the front- and back-end.
+Writing clean, functional code.
 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [https://my-portfolio000-alton9211-hashasin.vercel.app/](http://my-portfolio000-alton9211-hashasin.vercel.app/)
-* ✉️  You can contact me at [1904430@kiit.ac.in](mailto:1904430@kiit.ac.in)
+* ✉️  You can contact me at [meetnafisanwar@gmail.com](mailto:meetnafisanwar@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Socials
